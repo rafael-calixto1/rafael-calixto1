@@ -2,7 +2,7 @@
 
 
 - 📚 estudante de Desenvolvimento de Sistemas pela ETEC de Poa
-- 🎥 Irei produzir um vasto conteudo sobre DS e o link do canal estara aqui
+
 
 <div>
   <a href="https://github.com/rafael-calixto1">
