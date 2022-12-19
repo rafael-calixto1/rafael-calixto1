@@ -1,7 +1,7 @@
-## Bem vindo ao meu perfil!! Me chamo Rafael Calixto
+## Bem vindo ao meu perfil!!
 
 
-- 📚 estudante de Desenvolvimento de Sistemas pela ETEC de Poa
+- 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC de Poá
 - 📚 Java
 
 <div>
@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
