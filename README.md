@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Ciências da Computação
 - 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC de Poá
-- 📚 Java
+- 📚 Java - Spring
 
 <div>
   <a href="https://github.com/rafael-calixto1">
@@ -24,11 +24,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="hhttps://www.instagram.com/calixto_br/?" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-calixtoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafael-calixto1/rafael-calixto1/blob/output/github-contribution-grid-snake.svg)
