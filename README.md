@@ -18,7 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </div>
   ##
