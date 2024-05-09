@@ -3,20 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=rafael-calixto1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height=25px, width=160px/> 
-	<a href = "https://commits.top/brazil.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-	</a>
-</p>
-
 ## ![About me](https://github.com/rafael-calixto1/rafael-calixto1/blob/main/Images/about_me.gif?raw=true) About me
 
 ![About me](https://github.com/rafael-calixto1/rafael-calixto1/blob/main/Images/Right_Side.gif?raw=true)
 
-<br><br>
+<br>
 
 - :school: I'm a `Computer Science` student at Braz Cubas, specializing in `Software Engineering`.
 - :technologist: I enjoy tackling problems with `Software Solutions`.
